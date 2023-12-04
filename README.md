@@ -7,11 +7,11 @@ Pre-requisite is that OTP will be needed from the Network Operatior/Device vendo
 
 ### Pre-Configuration
 
-***Activate Flight Mode***
-
-```
-Access your device's settings and enable Flight Mode.-
-```
+    ***Activate Flight Mode***
+    
+    ```
+    Access your device's settings and enable Flight Mode.-
+    ```
 
 ### Configuration
 
@@ -21,12 +21,16 @@ Access your device's settings and enable Flight Mode.-
 Open the dialer app on your device.
 ```
 
-    Enter Codes:
-        Dial *#9900# to access the configuration menu.
+***Enter Codes***
+```
+Dial *#9900# to access the configuration menu.
+```
 
-    Delete Old Dumps:
-        Select "Delete Dumpstate/Logcat."
-        This action removes previous logs and dumps. It's advisable to delete the previous \log\ folder from the device's file explorer as well.
+***Delete Old Dumps***
+    ```
+    Select "Delete Dumpstate/Logcat."
+    This action removes previous logs and dumps. It's advisable to delete the previous \log\ folder from the device's file explorer as well.
+    ```
 
     Set Debug Level:
         Choose "Debug Level" and set it to "MID."
