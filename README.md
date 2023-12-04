@@ -38,8 +38,7 @@
       Confirm your selection and choose "Default," then press "Ok."
 
    f. Disable Flight Mode
-      Once configurations are set, turn off Flight Mode in the device settings.    Access the Dialer:
-      Open the dialer app on your device.
+      Once configurations are set, turn off Flight Mode in the device settings.
 ```
 ### Testing Phase
 
@@ -60,7 +59,7 @@
 
     c. Access Logs:
         Navigate to Menu => Files Explorer => Device Storage => "Log" folder.
-        Ensure that the folder contains ".qmdl" or ".qdss" files in the \log\cp\2020XXXXX\ directory.Testing Phase:
+        Ensure that the folder contains ".qmdl" or ".qdss" files in the \log\cp\2020XXXXX\ directory.
 ```
 
 These steps will help you efficiently configure Silent Log on your device, enabling you to manage and retrieve logs effectively for diagnostic purposes.
